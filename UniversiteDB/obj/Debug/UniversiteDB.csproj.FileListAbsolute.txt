@@ -1,0 +1,7 @@
+C:\Users\adone\source\repos\UniversiteDB\UniversiteDB\bin\Debug\UniversiteDB.exe.config
+C:\Users\adone\source\repos\UniversiteDB\UniversiteDB\bin\Debug\UniversiteDB.exe
+C:\Users\adone\source\repos\UniversiteDB\UniversiteDB\bin\Debug\UniversiteDB.pdb
+C:\Users\adone\source\repos\UniversiteDB\UniversiteDB\obj\Debug\UniversiteDB.csproj.AssemblyReference.cache
+C:\Users\adone\source\repos\UniversiteDB\UniversiteDB\obj\Debug\UniversiteDB.csproj.CoreCompileInputs.cache
+C:\Users\adone\source\repos\UniversiteDB\UniversiteDB\obj\Debug\UniversiteDB.exe
+C:\Users\adone\source\repos\UniversiteDB\UniversiteDB\obj\Debug\UniversiteDB.pdb
